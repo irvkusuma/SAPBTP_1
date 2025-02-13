@@ -1,0 +1,7 @@
+ID;customerMessageID;titleEnglish;customerName;productName;summaryEnglish;messageCategory;messageUrgency;messageSentiment;titleCustomerLanguage;customerId;productId;summaryCustomerLanguage;originatingCountry;sourceLanguage;fullMessageCustomerLanguage;fullMessageEnglish;suggestedResponseEnglish;suggestedResponseCustomerLanguage
+d2d44b2f-b90d-4f2c-8b3f-9cd5d05be6ca;1;;customerName7226;Freezer;;;Faulty Compressor;;;customerId1057;productId9409;;France;French;Le compresseur de mon congélateur ne fonctionne pas correctement.;;;
+d2d44b2f-b90d-4f2c-8b3f-9cd5d05be6cb;2;;customerName7227;Freezer;;;Drainage Problem;;;customerId1058;productId9410;;France;French;Il y a un problème de drainage avec mon congélateur.;;;
+d2d44b2f-b90d-4f2c-8b3f-9cd5d05be6cc;3;;customerName7228;Freezer;;;Malfunctioning Seals;;;customerId1059;productId9411;;France;French;Les joints de mon congélateur ne fonctionnent pas correctement.;;;
+d2d44b2f-b90d-4f2c-8b3f-9cd5d05be6cd;4;;customerName7229;Freezer;;;Faulty Compressor;;;customerId1060;productId9412;;France;French;Le compresseur de mon congélateur est défectueux.;;;
+d2d44b2f-b90d-4f2c-8b3f-9cd5d05be6ce;5;;customerName7230;Freezer;;;Drainage Problem;;;customerId1061;productId9413;;France;French;Mon congélateur a un problème de drainage.;;;
+d2d44b2f-b90d-4f2c-8b3f-9cd5d05be6cf;6;;customerName7231;Freezer;;;Malfunctioning Seals;;;customerId1062;productId9414;;France;French;Les joints de mon congélateur sont défectueux.;;;
